@@ -15,6 +15,7 @@ services:
       # - DB_USER=postgres
       # - DB_PASSWORD=root  # Added DB_PASSWORD to match your PostgreSQL setup
       # - DB_PORT=5432
+      # new changes for reviewer
 
     ports:
       - 5432:5432
